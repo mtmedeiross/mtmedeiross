@@ -6,5 +6,5 @@
   <img align="center" alt="mt_python" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 <div>
-      <a href="https://instagram.com/medeirosmt" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-080808?logo=instagram&logoColor=white&style=for-square">
+      <a href="https://instagram.com/medeirosmt" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-1C1C1C?logo=instagram&logoColor=white&style=for-square">
 </div>
